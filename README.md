@@ -1,2 +1,2 @@
 # pokedex
-Almacenar pokemon sin base de datos
+Almacenar pokemon en un archivo json.
